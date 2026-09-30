@@ -1,0 +1,6 @@
+{
+  "name": "Fiza AI",
+  "description": "A sassy, playful, and emotionally intelligent real-time voice assistant in Hindi powered by Gemini Live API.",
+  "requestFramePermissions": ["microphone", "camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

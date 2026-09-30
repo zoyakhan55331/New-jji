@@ -1,0 +1,45 @@
+{
+  "name": "Fiza AI",
+  "short_name": "Fiza AI",
+  "description": "A sassy, playful, and emotionally intelligent real-time voice assistant in Hindi powered by Gemini Live API.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050505",
+  "theme_color": "#7c3aed",
+  "categories": [
+    "productivity",
+    "utilities",
+    "entertainment"
+  ],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshot-mobile.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Fiza AI - Live Voice Interactions"
+    },
+    {
+      "src": "/screenshot-desktop.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Fiza AI - Immersive Futuristic Interface"
+    }
+  ]
+}
